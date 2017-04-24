@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>A Farewell to Arms</title>
+    <author>Ernest Hemingway</author>
+    <cover>http://t0.gstatic.com/images?q=tbn:ANd9GcQzKyz0vfmzjgy769BGWJ_7qBB3w2cGbyl7yunrpZ7adkNXDuG6</cover>
+  </book>
+  <book>
+    <title>Demian</title>
+    <author>Herman Hesse</author>
+    <cover>http://t1.gstatic.com/images?q=tbn:ANd9GcS0AaoaWe6JoeW76evNHvYv3ZzSLAshS1mgo0AEr-9ryPRvSeUv</cover>
+  </book>
+  <book>
+    <title>The hobbit</title>
+    <author>J. R. R. Tolkien</author>
+    <cover>http://66.media.tumblr.com/tumblr_m569vy1BVc1qzdglao1_1280.jpg</cover>
+  </book>
+  <book>
+    <title>Madame Bovary</title>
+    <author>Gustave Flaubert</author>
+    <cover>http://t2.gstatic.com/images?q=tbn:ANd9GcSuuHwiowAw64va3kybwGVKnS8Ierlpa8AucBqP7UcH-_w3oH4X</cover>
+  </book>
+</books>
